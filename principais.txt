@@ -1,0 +1,8 @@
+git add
+git commi -m ""
+git status
+git checkout ...
+git merge
+git push origin main
+git pull origin main
+

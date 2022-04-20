@@ -1,0 +1,5 @@
+Instalação com o 
+sudo apt-get install get
+
+Configurando
+git config --global name/email

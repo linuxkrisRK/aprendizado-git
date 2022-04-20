@@ -1,0 +1,1 @@
+Criação de ramificações para que cada colaborador cries suas features em suas ramificações para depois juntar tudo.
